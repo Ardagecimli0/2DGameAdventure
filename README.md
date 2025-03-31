@@ -60,11 +60,10 @@ Embark on an exciting journey with this **Java Swing & Vanilla Java** 2D Adventu
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
 
-## 📜 License
-Licensed under the **MIT License**. See `LICENSE` for more details.
+
 
 ## 👤 Author
-Developed with passion by **Your Name**.
+Developed with passion by **Arda Geçimli**.
 
 ## 💡 Acknowledgments
 - Java Swing Documentation
