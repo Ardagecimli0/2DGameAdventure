@@ -1,5 +1,3 @@
-# 2DGameAdventure
-
 # 🌟 2D Adventure Game
 
 Embark on an exciting journey with this **Java Swing & Vanilla Java** 2D Adventure Game! Traverse mystical landscapes, solve intriguing puzzles, and face formidable enemies as you progress through a handcrafted world.
